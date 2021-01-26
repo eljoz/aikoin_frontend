@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    overflow-x: hidden  ;
+    height:auto ;
+    /* width: 100vh; */
+    /* width: fit-content; */
+    background-image: url(../img/invest3.jpeg);
+    
+    background-size: cover;
+    background-position: fixed !important;
+    background-attachment: fixed;
+    /* border: 1px solid tomato; */
+}
+
+
+.carousel-img{
+    height: 65vh;
+    /* width: 100vh; */
+    /* width: fit-content; */
+    background-size: cover;
+    background-position: fixed !important;
+    background-attachment: fixed;
+    /* border: 1px solid tomato; */
+}
+
+
+
+.carousel-img2 {
+    height: 65vh;
+    /* width: 100vh; */
+    /* width: fit-content; */
+    background-size: cover;
+    background-position: fixed !important;
+    background-attachment: fixed;
+    /* border: 1px solid tomato; */
+}
